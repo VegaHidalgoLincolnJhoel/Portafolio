@@ -1,0 +1,40 @@
+:root {
+  --hero-gradient: radial-gradient(circle at 15% 20%, #3342a5 0%, #151a3e 35%, #0b0f23 100%);
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+.hero {
+  background: var(--hero-gradient);
+}
+
+.py-lg-6 {
+  padding-top: 5.5rem !important;
+  padding-bottom: 5.5rem !important;
+}
+
+.profile-card {
+  border-radius: 1rem;
+  backdrop-filter: blur(6px);
+}
+
+.project-card {
+  border-radius: 1rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 1rem 2rem rgba(17, 24, 39, 0.12) !important;
+}
+
+.skill-pill {
+  border: 1px solid var(--bs-border-color);
+  background-color: #fff;
+  border-radius: 999px;
+  padding: 0.65rem 1rem;
+  text-align: center;
+  font-weight: 600;
+}
