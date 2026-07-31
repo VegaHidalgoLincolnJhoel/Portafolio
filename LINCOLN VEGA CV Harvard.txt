@@ -1,0 +1,29 @@
+﻿LINCOLN VEGA SMP, Lima, Perú | +51 910 286 670 | lincolvegahidalgo@gmail.com 
+RESUMEN PROFESIONAL Desarrollador Full Stack con fuerte enfoque en Backend y estudiante de Ingeniería de Sistemas. Experiencia demostrada en la construcción de sistemas de gestión integrales, automatización de procesos mediante APIs y despliegue de aplicaciones. Hábil en el modelado de bases de datos relacionales (PostgreSQL, MySQL, SQL Server) y el desarrollo de la lógica de negocio sólida (Java, Spring Boot, PHP). Orientado a la resolución de problemas técnicos de infraestructura y a la creación de soluciones escalables para entornos reales.
+EDUCACIÓN Universidad Tecnológica del Perú (UTP) | Lima, Perú Estudiante de Ingeniería de Sistemas e Informática | 2023 - Actual
+Instituto de Educación Superior Tecnológico Privado CIBERTEC | Lima, Perú Estudios en Computación e Informática | 2022 - 2023
+EXPERIENCIA PROFESIONAL Barton | Lima, Perú Desarrollador Web y Backend (Proyecto Freelance) | 2026 (Proyecto de 1 mes)
+* Desarrollé y desplegué dos plataformas web optimizadas en el hosting 20i, diseñadas para captar y gestionar el alto tráfico proveniente de campañas de marketing y transmisiones en vivo (TikTok).
+* Diseñé e implementé un sistema interno de control de asistencia para empleados (registro de entradas, salidas y descansos) conectado a una base de datos relacional MySQL.
+* Automaticé los flujos de notificación del negocio mediante la integración de APIs y el desarrollo de un bot de Telegram con PHP y JavaScript.
+PROYECTOS DESTACADOS Sistema de Gestión para Restaurante Marino | Proyecto Académico Escalable
+* Construí una aplicación web integral de arquitectura escalable, capaz de soportar la concurrencia de múltiples usuarios en tiempo real sin pérdida de rendimiento.
+* Aseguré la integridad del sistema implementando autenticación JWT y control de acceso basado en 4 roles específicos (Administrador, Cliente, Cocina, Mozo) utilizando Spring Boot.
+* Desarrollé un dashboard interactivo conectado a PostgreSQL para la monitorización de las operaciones del restaurante.
+* Tecnologías: HTML, CSS, Bootstrap, Spring Boot, PostgreSQL.
+Sistema Modular de Inventarios | Proyecto Académico
+* Desarrollé un sistema de escritorio nativo con Java capaz de gestionar, filtrar y categorizar dinámicamente más de 1,000 productos manteniendo una alta velocidad de respuesta.
+* Resolví desafíos críticos de infraestructura al configurar y estabilizar conexiones remotas multiplataforma (Windows y Linux) hacia bases de datos SQL Server.
+* Diseñé una arquitectura de software basada en contenedores de categorías lógicas para que el sistema sea adaptable a diferentes rubros comerciales.
+* Tecnologías: Java, SQL Server.
+EXPERIENCIA DE VOLUNTARIADO ASEZ (Grupo Internacional de Universitarios asociados a la ONU) | Lima, Perú Voluntario Internacional
+* Coordiné actividades de concientización ambiental en el campus, promoviendo los Objetivos de Desarrollo Sostenible (ODS) de la ONU mediante seminarios y trabajo colaborativo.
+* Impulsé iniciativas ecológicas clave como "Carbono Azul" y "Zero Plastic 2040" colaborando activamente con otros voluntarios e instituciones.
+HABILIDADES TÉCNICAS E IDIOMAS
+* Desarrollo Backend: Java, Spring Boot, Node.js, PHP, Integración de APIs REST, JWT, Bots (Telegram).
+* Bases de Datos: PostgreSQL, MySQL, SQL Server.
+* Desarrollo Frontend: JavaScript, HTML, CSS, Bootstrap, React, Angular.
+* Herramientas y Entornos: GitHub, Docker, Linux, Gestión de Hosting (20i).
+* Idiomas: Español (Nativo), Inglés Técnico (Lectura y comprensión fluida de documentación tecnológica).
+* Certificaciones: Excel, Word, PowerPoint Intermedio (Campus Romero, 2023).
+
